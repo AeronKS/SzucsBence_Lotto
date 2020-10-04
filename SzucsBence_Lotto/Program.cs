@@ -10,6 +10,11 @@ namespace SzucsBence_Lotto
     {
         static void Main(string[] args)
         {
+            var Beolv = new Beolv();
+            Beolv.Beolvas();
+            
+
+            Console.ReadKey();
         }
     }
 }

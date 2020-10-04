@@ -1,0 +1,7 @@
+C:\Users\Bence\Desktop\SzucsBence_Lotto\SzucsBence_Lotto\bin\Debug\SzucsBence_Lotto.exe.config
+C:\Users\Bence\Desktop\SzucsBence_Lotto\SzucsBence_Lotto\bin\Debug\SzucsBence_Lotto.exe
+C:\Users\Bence\Desktop\SzucsBence_Lotto\SzucsBence_Lotto\bin\Debug\SzucsBence_Lotto.pdb
+C:\Users\Bence\Desktop\SzucsBence_Lotto\SzucsBence_Lotto\obj\Debug\SzucsBence_Lotto.csprojAssemblyReference.cache
+C:\Users\Bence\Desktop\SzucsBence_Lotto\SzucsBence_Lotto\obj\Debug\SzucsBence_Lotto.csproj.CoreCompileInputs.cache
+C:\Users\Bence\Desktop\SzucsBence_Lotto\SzucsBence_Lotto\obj\Debug\SzucsBence_Lotto.exe
+C:\Users\Bence\Desktop\SzucsBence_Lotto\SzucsBence_Lotto\obj\Debug\SzucsBence_Lotto.pdb
