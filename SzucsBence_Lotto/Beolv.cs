@@ -17,6 +17,11 @@ namespace SzucsBence_Lotto
         private int szam4;
         private int szam5;
 
+        public int Szam1 { get => szam1; set => szam1 = value; }
+        public int Szam2 { get => szam2; set => szam2 = value; }
+        public int Szam3 { get => szam3; set => szam3 = value; }
+        public int Szam4 { get => szam4; set => szam4 = value; }
+        public int Szam5 { get => szam5; set => szam5 = value; }
         internal List<Beolv> Huzasok { get => huzasok; set => huzasok = value; }
 
         public void Beolvas()

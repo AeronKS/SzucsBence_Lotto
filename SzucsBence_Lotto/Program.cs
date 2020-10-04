@@ -11,8 +11,11 @@ namespace SzucsBence_Lotto
         static void Main(string[] args)
         {
             var Beolv = new Beolv();
+            var tip = new Tippek();
             Beolv.Beolvas();
-            
+            tip.szamtip();
+
+
 
             Console.ReadKey();
         }
